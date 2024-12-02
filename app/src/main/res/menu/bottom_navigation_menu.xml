@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/headlines_frag"
+        android:title="Headlines"
+        android:icon="@drawable/headline_vector"/>
+    <item
+        android:id="@+id/favourites_frag"
+        android:title="Favourites"
+        android:icon="@drawable/favourites_vector"/>
+    <item
+        android:id="@+id/search_frag"
+        android:title="Search"
+        android:icon="@drawable/search_vector"/>
+</menu>
